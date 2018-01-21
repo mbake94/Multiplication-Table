@@ -1,0 +1,10 @@
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\bin\Debug\Multuplication Table.exe.config
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\bin\Debug\Multuplication Table.exe
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\bin\Debug\Multuplication Table.pdb
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\obj\Debug\Multuplication Table.csprojResolveAssemblyReference.cache
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\obj\Debug\Multuplication_Table.Form1.resources
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\obj\Debug\Multuplication_Table.Properties.Resources.resources
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\obj\Debug\Multuplication Table.csproj.GenerateResource.Cache
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\obj\Debug\Multuplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\obj\Debug\Multuplication Table.exe
+C:\Users\Owners\Desktop\CIS162 HW\Multuplication Table\Multuplication Table\obj\Debug\Multuplication Table.pdb
